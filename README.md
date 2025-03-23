@@ -65,7 +65,7 @@ Threading - Background downloads
 Modify the theme by changing the Style parameter:
 
 python
-Copy
+
 self.style = Style(theme='litera')  # Options: 'minty', 'sandstone', 'cosmo'
 Add quality presets by editing the combobox values:
 
@@ -85,16 +85,10 @@ Do not use for piracy
 ##License 📄
 MIT License - Free for personal and educational use
 
-Copy
+
 
 ---
 
-**Note:** For actual use, you should:
-1. Replace `yourusername` in the clone URL
-2. Add actual screenshots/demo GIF
-3. Modify license if needed
-4. Add proper error handling documentation
-5. Include contributor guidelines if open-sourcing
 
 Would you like me to create any specific section in more detail? 😊
 
